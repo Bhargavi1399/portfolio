@@ -1,0 +1,16 @@
+.bannerBgImage
+{
+    height:100vh;
+    background: url("/css/img1.img");
+    background-color: beige;
+    position:fixed;
+}
+
+.bannerText{
+    text-align:right;
+    position:fixed;
+    top: 50;
+    left: 50;
+    transform:none;
+    color:aliceblue;
+}
